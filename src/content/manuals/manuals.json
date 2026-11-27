@@ -1,0 +1,258 @@
+[
+  {
+    "id": "pediatric-bls",
+    "filename": "Paediatric_Basic_Life_Support.pdf",
+    "title": "Paediatric Basic Life Support",
+    "edition": "Рекомендации 2005 года",
+    "publisher": "Resuscitation Council (UK)",
+    "author": "",
+    "pages": 15,
+    "language": "Английский",
+    "archive": true,
+    "notice": "Архивная редакция 2005 года. Документ сохранён для изучения и сопоставления; его алгоритмы и дозировки не следует использовать как действующие рекомендации.",
+    "guidelineLabel": "RCUK: педиатрические алгоритмы 2025",
+    "guidelineUrl": "https://www.resus.org.uk/sites/default/files/2026-02/RCUK%20Paediatric%20emergency%20algorithms%20and%20resources%20Feb%2026%20V6.pdf",
+    "bookmarks": [
+      {
+        "page": 1,
+        "label": "Введение и изменения",
+        "keywords": "introduction"
+      },
+      {
+        "page": 2,
+        "label": "Алгоритм Pediatric BLS",
+        "keywords": "CPR СЛР"
+      },
+      {
+        "page": 3,
+        "label": "Последовательность BLS и AED",
+        "keywords": "дефибриллятор"
+      },
+      {
+        "page": 4,
+        "label": "Дыхательные пути и реакция",
+        "keywords": "airway"
+      },
+      {
+        "page": 5,
+        "label": "Искусственные вдохи",
+        "keywords": "breaths вентиляция"
+      },
+      {
+        "page": 6,
+        "label": "Кровообращение и компрессии",
+        "keywords": "пульс circulation"
+      },
+      {
+        "page": 7,
+        "label": "Компрессии у младенца",
+        "keywords": "infant"
+      },
+      {
+        "page": 8,
+        "label": "Пояснения к рекомендациям",
+        "keywords": "notes"
+      },
+      {
+        "page": 10,
+        "label": "Восстановительное положение",
+        "keywords": "recovery"
+      },
+      {
+        "page": 11,
+        "label": "Распознавание инородного тела",
+        "keywords": "FBAO choking"
+      },
+      {
+        "page": 12,
+        "label": "Алгоритм при инородном теле",
+        "keywords": "обструкция"
+      },
+      {
+        "page": 13,
+        "label": "Удары по спине и толчки",
+        "keywords": "thrusts"
+      },
+      {
+        "page": 15,
+        "label": "Инородное тело: без сознания",
+        "keywords": "unconscious"
+      }
+    ],
+    "sha256": "86da8ae217716fef0d6ee64f8fb3af7f25f931bb4bb570952358d201118c0d58",
+    "url": "/manuals/Paediatric_Basic_Life_Support.pdf"
+  },
+  {
+    "id": "pals",
+    "filename": "PALS_Handbook.pdf",
+    "title": "PALS Provider Handbook",
+    "edition": "Версия 2026.01 · на обложке — стандарты 2025",
+    "publisher": "Satori Continuum Publishing",
+    "author": "Dr. Karl Disque",
+    "pages": 76,
+    "language": "Английский",
+    "archive": false,
+    "notice": "Учебное пособие стороннего издателя, а не официальное издание AHA. На обложке указаны стандарты 2025 года; в тексте встречаются ссылки на редакцию 2020. Независимая медицинская проверка этого пособия в проекте не проводилась.",
+    "guidelineLabel": "AHA: Pediatric Advanced Life Support 2025",
+    "guidelineUrl": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/pediatric-advanced-life-support",
+    "bookmarks": [
+      {
+        "page": 1,
+        "label": "Обложка",
+        "keywords": "cover"
+      },
+      {
+        "page": 3,
+        "label": "Издатель и версия",
+        "keywords": "copyright"
+      },
+      {
+        "page": 4,
+        "label": "Оглавление оригинала",
+        "keywords": "contents"
+      },
+      {
+        "page": 6,
+        "label": "Введение в PALS",
+        "keywords": "introduction"
+      },
+      {
+        "page": 7,
+        "label": "Работа команды",
+        "keywords": "team"
+      },
+      {
+        "page": 9,
+        "label": "Обзор Pediatric BLS",
+        "keywords": "CPR СЛР"
+      },
+      {
+        "page": 10,
+        "label": "BLS у детей",
+        "keywords": "children"
+      },
+      {
+        "page": 11,
+        "label": "BLS у младенцев",
+        "keywords": "infant"
+      },
+      {
+        "page": 13,
+        "label": "Сводный алгоритм BLS",
+        "keywords": "summary"
+      },
+      {
+        "page": 15,
+        "label": "PALS и анатомия",
+        "keywords": "anatomy"
+      },
+      {
+        "page": 16,
+        "label": "Систематический подход",
+        "keywords": "systematic"
+      },
+      {
+        "page": 17,
+        "label": "Первичная оценка ABCDE",
+        "keywords": "primary"
+      },
+      {
+        "page": 20,
+        "label": "Вторичная оценка",
+        "keywords": "secondary"
+      },
+      {
+        "page": 23,
+        "label": "Инструменты реанимации: IO",
+        "keywords": "внутрикостный доступ"
+      },
+      {
+        "page": 24,
+        "label": "Дыхательные пути и BVM",
+        "keywords": "мешок маска airway"
+      },
+      {
+        "page": 27,
+        "label": "AED",
+        "keywords": "дефибриллятор"
+      },
+      {
+        "page": 29,
+        "label": "Фармакологические средства",
+        "keywords": "препараты лекарства дозы"
+      },
+      {
+        "page": 31,
+        "label": "Дыхательная недостаточность",
+        "keywords": "respiratory distress"
+      },
+      {
+        "page": 36,
+        "label": "Брадикардия",
+        "keywords": "bradycardia"
+      },
+      {
+        "page": 38,
+        "label": "Алгоритм брадикардии",
+        "keywords": "bradycardia algorithm"
+      },
+      {
+        "page": 42,
+        "label": "Тахикардия",
+        "keywords": "tachycardia"
+      },
+      {
+        "page": 45,
+        "label": "Алгоритм тахикардии",
+        "keywords": "tachycardia algorithm"
+      },
+      {
+        "page": 49,
+        "label": "Распознавание шока",
+        "keywords": "shock"
+      },
+      {
+        "page": 52,
+        "label": "Помощь при шоке",
+        "keywords": "shock response"
+      },
+      {
+        "page": 55,
+        "label": "Остановка кровообращения",
+        "keywords": "cardiac arrest"
+      },
+      {
+        "page": 57,
+        "label": "Алгоритм остановки кровообращения",
+        "keywords": "PEA asystole VF VT"
+      },
+      {
+        "page": 62,
+        "label": "После реанимации",
+        "keywords": "post resuscitation"
+      },
+      {
+        "page": 65,
+        "label": "Постреанимационный алгоритм",
+        "keywords": "post resuscitation algorithm"
+      },
+      {
+        "page": 69,
+        "label": "Ключевые положения PALS",
+        "keywords": "essentials"
+      },
+      {
+        "page": 71,
+        "label": "Контрольные вопросы",
+        "keywords": "review questions"
+      },
+      {
+        "page": 74,
+        "label": "Ответы на вопросы",
+        "keywords": "answers"
+      }
+    ],
+    "sha256": "bd080d91bd472ddc18a8d45dfb87975e9cdd944008af2e97ef0c9d144faee742",
+    "url": "/manuals/PALS_Handbook.pdf"
+  }
+]
