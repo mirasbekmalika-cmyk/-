@@ -8005,3 +8005,26 @@ h2[id^=manual-] {
         font-size: 25px
     }
 }
+/* Review status banner (added in 0.7.0) */
+.status-banner {
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
+    margin: 0 0 18px;
+    padding: 14px 16px;
+    border: 1px solid var(--line);
+    border-left: 4px solid var(--amber);
+    border-radius: 12px;
+    background: var(--amber-bg);
+    color: var(--text);
+}
+.status-banner > svg { flex: none; margin-top: 2px; color: var(--amber); }
+.status-banner.is-verified { border-left-color: #1f8a5b; background: var(--blue-soft); }
+.status-banner.is-verified > svg { color: #1f8a5b; }
+.status-banner strong { display: block; color: var(--strong); font-size: .95rem; }
+.status-banner p { margin: 4px 0 8px; font-size: .88rem; line-height: 1.45; }
+.status-banner-meta { display: flex; flex-wrap: wrap; gap: 4px 18px; margin: 0; font-size: .8rem; color: var(--muted); }
+.status-banner-meta div { display: flex; gap: 6px; }
+.status-banner-meta dt { font-weight: 600; }
+.status-banner-meta dd { margin: 0; }
+@media print { .status-banner { break-inside: avoid; } }
